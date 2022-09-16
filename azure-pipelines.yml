@@ -29,4 +29,4 @@ steps:
     containerRegistry: 'skp-docker'
     repository: 'pshivakumar443/devops'
     command: 'buildAndPush'
-    Dockerfile: '**/Dockerfile'
+    Dockerfile: '**/AzureDockerfile'
